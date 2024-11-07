@@ -1,4 +1,4 @@
-// import React from "react";
+// import React from react";
 
 // function Services() {
 //   return (
@@ -24,9 +24,9 @@ const Services = () => {
     <div id="Services" className="bg-darkBackground rounded-md text-darkText font-serif text-4xl px-20 py-5 my-20 ml-20 ring-4 shadow-glow">
       <h3 className="text-darkAccent">What We Offer:</h3>
       <p>
-        "Stellar Guidance: Navigate your way through the stars with our expert insights.
+        Stellar Guidance: Navigate your way through the stars with our expert insights.
         Space Exploration Tools: Equip yourself with the best resources for your cosmic journey.
-        Innovative Solutions: Tailored solutions to meet the needs of every explorer."
+        Innovative Solutions: Tailored solutions to meet the needs of every explorer.
       </p>
     </div>
   );
