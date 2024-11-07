@@ -40,19 +40,19 @@ const Hero = () => {
       {/* Left Section */}
       <div className="justify-center text-center font-bold font-serif text-4xl">
         <div className="m-12 my-20">
-          <Image src="/comma1.png" alt="commas" width={60} height={60} />
+          <Image src="/images/comma1.png" alt="commas" width={60} height={60} />
           <div className="p-10">
             <p className="text-darkAccent">Explore the Boundaries of the Infinite.</p>
             <p>
               Unlock the mysteries of the universe, one discovery at a time.
             </p>
           </div>
-          <Image className="flex ml-auto" src="/comma2.png" alt="commas" width={60} height={60} />
+          <Image className="flex ml-auto" src="/images/comma2.png" alt="commas" width={60} height={60} />
         </div>
       </div>
       {/* Right Section */}
       <div className="m-12 my-20 rounded-sm p-3 ring-4 ring-[#665a4f] shadow-glow">
-        <Image src="/image.png" alt="earth" width={600} height={600} />
+        <Image src="/images/image.png" alt="earth" width={600} height={600} />
       </div>
     </section>
   );

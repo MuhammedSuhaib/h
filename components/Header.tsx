@@ -62,7 +62,7 @@ const NavigationBar = () => {
         <section className="ml-auto mr-4 hover:text-darkAccent">
           <Image
             className="w-20 h-20 rounded-full"
-            src="/images.jpg"
+            src="/images/images.jpg"
             alt="Profile"
             width={20}
             height={20}
